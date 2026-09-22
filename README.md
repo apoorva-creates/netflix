@@ -1,2 +1,0 @@
-# netflix
-Netflix front page
